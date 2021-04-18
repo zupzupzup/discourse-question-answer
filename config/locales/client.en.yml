@@ -11,8 +11,8 @@ en:
     composer:
       composer_actions:
         reply_to_question:
-          label: Vouch, critique, or answer the submission
-          desc: Vouch, critique, or answer the submission in the first post
+          label: Vouch for, critique, or answer the submission
+          desc: Vouch for, critique, or answer the submission in the first post
         comment_on_answer:
           label: Comment on vouch, critique, or answer of %{postUsername}
           desc: Comment on a Vouch, critique, or answer
@@ -38,7 +38,7 @@ en:
         help: "begin composing a new entry"
       answer:
         title: 'Vouch, critique, or answer'
-        help: 'begin composing a vouch, critique, or answer to the submission'
+        help: 'begin composing a vouch for, critique of, or answer to the submission'
       comment:
         title: 'Comment'
         help: 'begin composing a comment on this submission'
